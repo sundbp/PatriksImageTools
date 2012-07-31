@@ -62,7 +62,7 @@ baseline: spec
 				
 		spec
 			group: 'BaseImage' 
-			with: #('TilingWindowManager' 'Keymapping' 'Spotlight' ).
+			with: #('TilingWindowManager' 'Keymapping' 'Spotlight' 'PatriksImageTools').
 	 ].
 "
 	spec for: #'pharo1.4.x' do: [

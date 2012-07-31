@@ -2,7 +2,7 @@ loading
 loadPackages: packagesOrGroups
 	| version repo |
 	self generalPreLoad.
-	version := (ConfigurationOfPatrik project version: #bleedingEdge).
+	version := (ConfigurationOfPatriksImageTools project version: #stable).
 	self class buildOffline 
 		ifTrue: [ 
 			repo := MCDirectoryRepository new.
