@@ -4,17 +4,11 @@ baseline: spec
        
 	spec for: #pharo  do: [
 		spec blessing: #baseline.
- 			" spec 
-				project: 'Commander'
-				with:
-					[ spec
-						className: 'ConfigurationOfCommander';
-						loads: #('DevelopmentGroup' );
-						file: 'ConfigurationOfCommander';
-						versionString: #bleedingEdge;
-						repository: 'http://ss3.gemstone.com/ss/Commander' ].
-			"
 		
+ 		spec 
+			package: 'PatriksImageTools'
+			with: [ spec repository: 'github://sundbp/PatriksImageTools:master/packages' ].
+
 		spec
 			project: 'TilingWindowManager' 
 			with: [
