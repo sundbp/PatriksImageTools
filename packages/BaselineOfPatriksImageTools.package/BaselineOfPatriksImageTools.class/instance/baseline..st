@@ -16,7 +16,7 @@ baseline: spec
 					className: 'ConfigurationOfTilingWindowManager';
 					loads: #('default');
 					file: 'ConfigurationOfTilingWindowManager';
-					versionString: #stable;
+					versionString: #bleedingEdge;
 					repository: 'http://www.squeaksource.com/TilingWindowManager' ].
 		
 		spec
@@ -62,7 +62,7 @@ baseline: spec
 				
 		spec
 			group: 'BaseImage' 
-			with: #('TilingWindowManager' 'Keymapping' 'Spotlight' 'PatriksImageTools').
+			with: #('TilingWindowManager' 'Keymapping' 'Spotlight' 'GT-Inspector' 'PatriksImageTools').
 	 ].
 "
 	spec for: #'pharo1.4.x' do: [
