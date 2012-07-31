@@ -1,0 +1,14 @@
+{
+	"category" : "PatriksImageTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPatriksImageTools",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

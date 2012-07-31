@@ -1,0 +1,14 @@
+{
+	"category" : "PatriksImageTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CommanderImageBuilder",
+	"pools" : [
+		 ],
+	"super" : "PSGeneralImageBuilder",
+	"type" : "normal" }

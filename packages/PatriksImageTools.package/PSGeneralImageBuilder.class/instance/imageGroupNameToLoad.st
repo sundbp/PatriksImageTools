@@ -1,0 +1,3 @@
+loading
+imageGroupNameToLoad
+	^ self subclassResponsibility 
