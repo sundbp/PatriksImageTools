@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPatriksImageTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ConfigurationOfPatriksImageTools",
+	"pools" : [
+		 ],
+	"super" : "ConfigurationOf",
+	"type" : "normal" }
