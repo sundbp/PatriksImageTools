@@ -1,14 +1,14 @@
 {
-	"category" : "PatriksImageTools",
+	"category" : "ConfigurationOfPatriksImageTools",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"BuildOffline" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "PSGeneralImageBuilder",
+	"name" : "CommanderImageBuilder",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "PSGeneralImageBuilder",
 	"type" : "normal" }
