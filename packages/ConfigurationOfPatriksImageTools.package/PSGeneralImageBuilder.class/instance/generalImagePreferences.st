@@ -17,4 +17,5 @@ generalImagePreferences
 		ifTrue: [Nautilus pluginClasses add: { AnnotationPanePlugin. #middle }.].
 	Nautilus pluginClasses add: { NautilusBreadcrumbsPlugin. #top }.
 	"
+	self setFontPreferences.
 	
